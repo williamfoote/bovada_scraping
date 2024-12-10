@@ -1,0 +1,1 @@
+'use strict';const newBlock=document.getElementById("nw-bloc-al");let img=document.createElement("img");img.src="https://verification.curacao-egaming.com/validate.ashx?domain\x3dbovada.lv";img.width="55px";img.alt="Curacao Seal";newBlock.appendChild(img);
